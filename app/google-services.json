@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "295865849846",
+    "project_id": "kinterest-78257",
+    "storage_bucket": "kinterest-78257.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295865849846:android:ac4956398f769bde1ad9d7",
+        "android_client_info": {
+          "package_name": "com.example.tutorials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295865849846-t8boasiqm9b6njbll9fidjgdbdvlfjfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tutorials",
+            "certificate_hash": "a07fcd9d113fdca6772ea7cf104e9433c3ce2933"
+          }
+        },
+        {
+          "client_id": "295865849846-3gbkjf8k9ldogtqski6ppi0jq5eqvojn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFPtly8nVqMJ5BTaNwY3anHdbHZHuUeLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295865849846-3gbkjf8k9ldogtqski6ppi0jq5eqvojn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
